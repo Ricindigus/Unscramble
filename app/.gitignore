@@ -1,0 +1,36 @@
+# Archivos de compilación y ejecución
+*.apk
+*.ap_
+*.class
+build/
+out/
+
+# Archivos generados por Gradle
+.gradle/
+build/
+
+# Archivos generados por Android Studio
+/.idea/
+/.gradle/
+/local.properties
+/captures/
+
+# Archivos de configuración específicos de IDE
+*.iml
+/.metadata/
+/.DS_Store
+
+# Carpeta de caché de Gradle
+.caches/
+
+# Archivos de respaldo de Android Studio
+*.swp
+*~
+
+# Archivos de configuración local (ej. Keystore, API keys)
+/debug.keystore
+/release.keystore
+gradle.properties
+
+# Carpeta de archivos de compilación local
+app/build/
